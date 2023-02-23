@@ -1,1 +1,1 @@
-# .github
+# Calidad QA
